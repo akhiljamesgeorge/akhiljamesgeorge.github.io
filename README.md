@@ -1,4 +1,4 @@
 # aj7amigo.github.io
-Personal Website of Akhil James
+Personal Portfolio Website
 
 Most of the source code is obtained from https://www.codingnepalweb.com/
