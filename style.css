@@ -543,7 +543,7 @@ section .title::after{
   content: "get in touch";
 }
 .follow .wrapper {
-  margin: auto 6% !important;
+  margin: auto 0 !important;
   width: 125%;
   height: 150px
 }
