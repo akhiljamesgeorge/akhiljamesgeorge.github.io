@@ -541,18 +541,22 @@ section .title::after{
 /* follow me section styling */
 .follow .title::after{
   content: "get in touch";
-}
+}/*
 .follow .wrapper {
   margin: auto 0 !important;
   width: 125%;
   height: 150px
+}*/
+.follow .wrapper {
+  display: flex;
+  justify-content: center;
 }
 .follow .wrapper .button{
   display: inline-block;
   height: 60px;
   width: 60px;
   float: left;
-  margin: 10px 70px;
+  margin: 0 5px;
   overflow: hidden;
   background: #fff;
   border-radius: 50px;
