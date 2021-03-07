@@ -566,7 +566,7 @@ section .title::after{
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
 .follow .wrapper .button:hover{
-  width: 160px;
+  width: 200px; /* 160 was intermediate option*/
 }
 .follow .wrapper .button .icon{
   display: inline-block;
