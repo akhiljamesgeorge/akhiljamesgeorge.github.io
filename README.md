@@ -1,4 +1,4 @@
 # aj7amigo.github.io
 Personal Portfolio Website
 
-Most of the source code is obtained from the web, multiple GitHub repos and from Youtube tutorials.
+Most of the source code is obtained from https://www.codingnepalweb.com/
