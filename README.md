@@ -1,4 +1,4 @@
-# Akhil James Portfolio — Refactored
+# Akhil James Portfolio - Refactored
 
 akhiljamesgeorge.github.io
 
